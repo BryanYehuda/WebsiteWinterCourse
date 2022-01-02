@@ -1,4 +1,4 @@
-# WebsiteWinterCourse
+# Website Winter Course
 
 ## English
 This website is the website for the final project of the Winter Course Asia University Taiwan
